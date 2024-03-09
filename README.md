@@ -35,11 +35,10 @@ distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
+![WhatsApp Image 2024-03-07 at 11 34 22_40baf2b1](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/2826580f-b356-4529-a339-da0bcaa0b21a)
 
-![WhatsApp Image 2024-03-07 at 11 34 23_28a77ad5](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/2535eec6-3eb2-4ccb-b26b-8a7df056ab88)
 
-![Screenshot 2024-03-07 113341](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/a9364ed3-c6a1-44d6-9b39-a667f2442f2f)
-
+![Screenshot 2024-03-07 113341](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/65ce8f89-d62a-4e96-999d-de5f609fa44f)
 
 
 ### PROCEDURE:
@@ -108,9 +107,9 @@ duration=pulseIn(echoPin,HIGH);
 
 ### Distance vs measurement table 
 
+![WhatsApp Image 2024-03-09 at 08 57 23_2b51f7e0](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/f1959053-1466-493b-90cc-4d7dbe4a6c64)
 
 
-![WhatsApp Image 2024-03-09 at 08 57 24_b2684eba](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/2d447a09-9698-4e5e-b369-5522d86f11cc)
 
 			
 		
