@@ -107,10 +107,10 @@ duration=pulseIn(echoPin,HIGH);
 
 
 ### Distance vs measurement table 
+![WhatsApp Image 2024-03-07 at 11 34 36_7f7bcd76](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/30f0dcf8-6739-4527-b2b5-bfb94661c7db)
 
-![WhatsApp Image 2024-03-07 at 11 34 36_ee188526](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/0bb94a0d-36dc-4f50-9987-b4fed36ee8d7)
-			
- ![WhatsApp Image 2024-03-07 at 11 35 07_10f59065](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/fefbef23-e441-441c-a49e-95596507ccba)
+![WhatsApp Image 2024-03-07 at 11 35 07_76cc8c78](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/aff36738-d9f4-4668-8979-0b972ffa0e8b)
+
 
 Average error = sum/ number 0
 			
