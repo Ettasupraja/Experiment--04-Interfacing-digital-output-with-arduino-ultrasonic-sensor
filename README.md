@@ -107,12 +107,12 @@ duration=pulseIn(echoPin,HIGH);
 
 ### Distance vs measurement table 
 
-![WhatsApp Image 2024-03-09 at 08 57 23_2b51f7e0](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/f1959053-1466-493b-90cc-4d7dbe4a6c64)
+![WhatsApp Image 2024-03-07 at 11 34 35_54457ba5](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/49a118d7-8f5b-4869-83d6-fa3a479a4f9f)
 
+![WhatsApp Image 2024-03-07 at 11 35 06_5f5998fa](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/cbd7f0f1-f4c5-4fc9-ab00-b334dfdabb7f)
 
-
-			
-		
+Average error = sum/ number 0.
+	
 ### RESULTS:
 Interfacing digital output with arduino ultrasonic sensor was successfully created.
 
