@@ -54,7 +54,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### PROGRAM 
 
-``` const int trigPin=10;
+ const int trigPin=10;
 const int echoPin=9;
 int red=7;
 int green=6;
@@ -97,7 +97,7 @@ duration=pulseIn(echoPin,HIGH);
     digitalWrite(green,LOW);
  delay(200);
 }
-}```
+}
     
 
 
