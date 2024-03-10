@@ -35,11 +35,9 @@ distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
-![WhatsApp Image 2024-03-07 at 11 34 22_40baf2b1](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/2826580f-b356-4529-a339-da0bcaa0b21a)
+![WhatsApp Image 2024-03-07 at 11 34 28_9a02e4a4](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/3fa7490c-bfa5-4333-a1b3-1eae5cd49fad)
 
-
-![Screenshot 2024-03-07 113341](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/65ce8f89-d62a-4e96-999d-de5f609fa44f)
-
+![Screenshot 2024-03-07 113341](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/ad7d102e-e7f7-4ac1-8ab7-f4cc63ee653f)
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
@@ -55,7 +53,8 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 
 ### PROGRAM 
-```const int trigPin=10;
+
+``` const int trigPin=10;
 const int echoPin=9;
 int red=7;
 int green=6;
@@ -104,12 +103,9 @@ duration=pulseIn(echoPin,HIGH);
 
 
 
-
 ### Distance vs measurement table 
 
-![WhatsApp Image 2024-03-07 at 11 34 35_54457ba5](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/49a118d7-8f5b-4869-83d6-fa3a479a4f9f)
-
-![WhatsApp Image 2024-03-07 at 11 35 06_5f5998fa](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/cbd7f0f1-f4c5-4fc9-ab00-b334dfdabb7f)
+![WhatsApp Image 2024-03-09 at 08 57 29_c5ef1568](https://github.com/Ettasupraja/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/151641352/74a90a63-35b8-4144-959e-54e2750f8d4c)
 
 Average error = sum/ number 0.
 	
